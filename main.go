@@ -17,6 +17,7 @@ func main() {
     []string{"eu-west-2", "EU (London)"},
     []string{"ap-northeast-1", "Asia Pacific (Tokyo)"},
     []string{"ap-northeast-2", "Asia Pacific (Seoul)"},
+    []string{"ap-northeast-3", "Asia Pacific (Osaka-Local)"},
     []string{"ap-southeast-1", "Asia Pacific (Singapore)"},
     []string{"ap-southeast-2", "Asia Pacific (Sydney)"},
     []string{"ap-south-1", "Asia Pacific (Mumbai)"},
