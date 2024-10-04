@@ -2,7 +2,7 @@
 
 ## Install
 ```
-$ go get github.com/tsunokawa/aws-region-list
+$ go install github.com/tsunokawa/aws-region-list@latest
 ```
 
 ## Usage
